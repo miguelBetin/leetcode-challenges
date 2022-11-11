@@ -1,6 +1,4 @@
-import java.util.Arrays;
-
-public class searchInsertPosition {
+public class SearchInsertPosition {
 
     public static void main(String[] args) {
 

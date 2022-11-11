@@ -1,4 +1,4 @@
-public class goodString {
+public class GoodString {
 
     public static void main(String[] args) {
 

@@ -6,12 +6,12 @@ public class ValidParenthesesTest {
 
     @Test
     public void testValidParentheses(){
-        assertEquals(validParentheses.isValidParentheses("()"), true);
-        assertEquals(validParentheses.isValidParentheses("())"), false);
-        assertEquals(validParentheses.isValidParentheses("([]())"), true);
-        assertEquals(validParentheses.isValidParentheses("(}})"), false);
-        assertEquals(validParentheses.isValidParentheses("}{"), false);
-        assertEquals(validParentheses.isValidParentheses("()[]{}"), true);
+        assertEquals(ValidParentheses.isValidParentheses("()"), true);
+        assertEquals(ValidParentheses.isValidParentheses("())"), false);
+        assertEquals(ValidParentheses.isValidParentheses("([]())"), true);
+        assertEquals(ValidParentheses.isValidParentheses("(}})"), false);
+        assertEquals(ValidParentheses.isValidParentheses("}{"), false);
+        assertEquals(ValidParentheses.isValidParentheses("()[]{}"), true);
 
     }
 
