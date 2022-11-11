@@ -1,15 +1,4 @@
 public class GoodString {
-
-    public static void main(String[] args) {
-
-        System.out.println(makeGood("s"));
-        System.out.println(makeGood("leEeetcode"));
-        System.out.println(makeGood("abBAcC"));
-        System.out.println(makeGood("RLlr"));
-
-
-    }
-
     public static String makeGood(String s) {
 
         boolean goodString = isGoodString(s);

@@ -2,14 +2,6 @@ import java.util.EmptyStackException;
 import java.util.Stack;
 
 public class ValidParentheses {
-
-    public static void main(String[] args) {
-
-        System.out.println(isValidParentheses("){"));
-
-
-    }
-
     public static boolean isValidParentheses(String s) {
 
         boolean valid = true;
