@@ -1,5 +1,4 @@
 public class SearchInsertPosition {
-
     public static int searchInsert(int[] nums, int target) {
 
         if(nums == null || nums.length == 0) return 1;

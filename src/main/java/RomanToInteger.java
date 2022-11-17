@@ -1,6 +1,4 @@
 public class RomanToInteger {
-
-
     public static int romanToInt(String s) {
         StringBuilder sb = new StringBuilder(s);
         int value = 0;

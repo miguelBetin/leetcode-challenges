@@ -1,8 +1,4 @@
 import java.util.ArrayList;
-import java.util.EmptyStackException;
-import java.util.HashSet;
-import java.util.Stack;
-
 public class RemoveDuplicates {
 
     public static int removeDuplicates(int[] nums) {
