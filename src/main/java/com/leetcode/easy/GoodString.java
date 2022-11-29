@@ -1,3 +1,5 @@
+package com.leetcode.easy;
+
 public class GoodString {
     public static String makeGood(String s) {
 

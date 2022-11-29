@@ -1,3 +1,4 @@
+import com.leetcode.easy.IsPalindrome;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;

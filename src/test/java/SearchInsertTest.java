@@ -1,3 +1,4 @@
+import com.leetcode.easy.SearchInsertPosition;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;

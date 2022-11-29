@@ -1,3 +1,5 @@
+package com.leetcode.easy;
+
 import java.util.ArrayList;
 public class RemoveDuplicates {
 

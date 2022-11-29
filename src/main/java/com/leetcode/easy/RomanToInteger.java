@@ -1,3 +1,5 @@
+package com.leetcode.easy;
+
 public class RomanToInteger {
     public static int romanToInt(String s) {
         StringBuilder sb = new StringBuilder(s);
